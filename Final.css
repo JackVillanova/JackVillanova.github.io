@@ -40,7 +40,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(bumper.png) no-repeat;
+    background: url(bumper(1).png) no-repeat;
     opacity: 0;
 }
 
@@ -228,7 +228,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(dpad.png);
+    background: url(dpad(1).png);
     position: absolute;
 }
 
